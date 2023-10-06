@@ -192,6 +192,7 @@ img, audio, video {
 */
 
 html {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
@@ -208,5 +209,8 @@ label {
 /* ===== STATE STYLES ======= */
 
 @media (max-width: 768px) {
-  
+
+  html {
+
+  }
 }
