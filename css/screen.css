@@ -230,6 +230,7 @@ form {
   text-align: left;
   display: inline;
   padding: 5px;
+  margin-top: 25px;
   border-style: hidden;
 }
 
@@ -242,6 +243,7 @@ form {
   text-align: left;
   display: inline;
   padding: 5px;
+  margin-top: 25px;
   border-style: hidden;
 }
 
@@ -249,7 +251,10 @@ form {
   text-align: left;
   display: inline;
   padding: 5px;
+  margin-top: 25px;
+  margin-bottom: 25px;
   border-style: hidden;
+  border-radius: 10px;
   background-color: grey;
 
 }
