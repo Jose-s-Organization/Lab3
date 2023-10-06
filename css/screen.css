@@ -225,6 +225,18 @@ form {
   background-color: rgb(215, 250, 245);
 }
 
+#input-age-verification label, input {
+
+}
+
+#input-email label, input {
+
+}
+
+#input-submit input {
+
+}
+
 
 
 /* ===== STATE STYLES ======= */
