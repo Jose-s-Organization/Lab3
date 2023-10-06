@@ -206,7 +206,7 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 html {
-  background-color: lightgray;
+  background-color: rgb(228, 228, 228);
 }
 
 h1 {
@@ -221,8 +221,9 @@ form {
   border-style: hidden;
   padding-right: 0px;
   padding-left: 28px;
+  width: auto;
   border-radius: 25px;
-  background-color: grey;
+  background-color: rgb(177, 176, 176);
 }
 
 #input-age-verification label, input {
