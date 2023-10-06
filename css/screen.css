@@ -210,11 +210,15 @@ html {
 }
 
 h1 {
-
+  
 }
 
-ol {
-  
+form {
+  border-style: hidden;
+  padding-right: 0px;
+  padding-left: 28px;
+  border-radius: 0px;
+  background-color: rgb(215, 250, 245);
 }
 
 
