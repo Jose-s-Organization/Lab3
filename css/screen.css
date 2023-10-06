@@ -206,7 +206,7 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 html {
-  background-color: azure;
+  background-color: lightgray;
 }
 
 h1 {
@@ -222,19 +222,22 @@ form {
   padding-right: 0px;
   padding-left: 28px;
   border-radius: 0px;
-  background-color: rgb(215, 250, 245);
+  background-color: grey;
 }
 
 #input-age-verification label, input {
-
+  vertical-align: middle;
+  padding: 5px;
 }
 
 #input-email label, input {
-
+  vertical-align: middle;
+  padding: 5px;
 }
 
 #input-submit input {
-
+  vertical-align: middle;
+  padding: 5px;
 }
 
 
