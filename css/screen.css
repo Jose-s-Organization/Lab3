@@ -227,18 +227,31 @@ form {
 }
 
 #input-age-verification label, input {
-  vertical-align: middle;
+  text-align: left;
+  display: inline;
+  padding: 5px;
+  border-style: hidden;
+}
+
+.checkbox:checked:after {
+  background-color: grey;
   padding: 5px;
 }
 
 #input-email label, input {
-  vertical-align: middle;
+  text-align: left;
+  display: inline;
   padding: 5px;
+  border-style: hidden;
 }
 
 #input-submit input {
-  vertical-align: middle;
+  text-align: left;
+  display: inline;
   padding: 5px;
+  border-style: hidden;
+  background-color: grey;
+
 }
 
 
